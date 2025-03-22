@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K9lEET4a5x0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ariel Bensing\\OneDrive\\Desktop\\Masters\\AI\\MapProject\\MapProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ariel Bensing\\.nuget\\packages\\microsoft.web.webview2\\1.0.1901.177\\microsoft.web.webview2.1.0.1901.177.nupkg.sha512"
+  ],
+  "logs": []
+}
